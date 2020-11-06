@@ -1,0 +1,22 @@
+/******************************************
+    File Name: dark_layout.css
+/*******************************************/
+
+
+/** add ne css **/
+
+body {
+	background: orange;
+}
+
+header {
+    background: orange;
+}
+
+#navbar_menu > ul > li > a {
+    color: #fff;
+}
+
+h2 {
+	color: #fff;
+}
